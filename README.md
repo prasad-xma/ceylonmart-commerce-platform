@@ -1,4 +1,3 @@
 # ceylonmart-commerce-platform
 
-> Event-driven Microservices E-commerce Platform
-
+CeylonMart is a modern e-commerce platform inspired by Sri Lanka. It uses a distributed microservices architecture and Apache Kafka to support asynchronous communication, independent services, and reliable event processing.
